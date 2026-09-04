@@ -2,6 +2,7 @@
 #include <stack>
 using namespace std;
 
+
 int main() {
     stack<int> pilha;
     int numero;
